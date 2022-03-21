@@ -188,3 +188,5 @@ app_license = "MIT"
 # 	"frappe_sandbox.auth.validate"
 # ]
 
+
+page_renderer = "frappe_sandbox.frappe_sandbox.utils.FHIRRenderer"
